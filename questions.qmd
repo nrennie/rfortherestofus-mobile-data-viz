@@ -1,0 +1,31 @@
+---
+title: "R for the Rest of Us"
+date: "4 March 2024"
+format:
+  html: 
+    self-contained: true
+---
+
+## Personal Background
+
+### How did you get into R?
+
+### Give me an overview of the type of work you do. What does your use of R on a daily basis look like?
+
+### You are clearly very into data viz? Where does that interest come from? 
+
+### Why do you think R is well suited to making high-quality data viz?
+
+### What do you recommend for someone who wants to get into making data viz in R or improve their existing data viz? 
+
+## Data Viz on Mobile
+
+Can you give an example of a piece of data viz that you have made for large screens and how you might adapt it for mobile?
+
+You suggest there are three problems when making mobile-friendly data viz:
+
+1.	You need to set a specific size of plot
+2.	You need to save a high resolution image (that matches what you seen on screen)
+3.	You have a lot less space to work with!
+
+Talk about these problems and the solution to each.
