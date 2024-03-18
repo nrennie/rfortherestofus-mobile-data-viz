@@ -10,13 +10,40 @@ format:
 
 ### How did you get into R?
 
+* I think the first time I ever used R was about 9 or 10 years in an undergraduate statistics class, and I hated it so much. I'd never done any sort of programming before and I very much felt like I was thrown into the deep end. It just didn't click at all.
+* The rest of my degree programme I mainly used Python
+* Masters - more R focused
+* Deutsche Bahn
+
+
 ### Give me an overview of the type of work you do. What does your use of R on a daily basis look like?
 
-### You are clearly very into data viz? Where does that interest come from? 
+* lecturer in health data science, data processing health-related data, statistical models, visualisation for papers 
+* I also use R for developing teaching materials in combination with RMarkdown or Quarto - that might be lecture slides, lecture notes, course website, simulated data sets for workshops, developing tutorials for R. I use parameterised document a lot of the time, to create a tutorial sheet for students with questions, and then switching the parameter in the report also prints the solutions.
+* data visualisation, partly for fun, RSS Best practices for data visualisation guidance (and r package)
+
+
+### You are clearly very into data viz? Where does that interest come from?
+
+* At first glance, most probably see the PhD in statistics, think oh she works with data, that must be how she got into data visualisation
+* I actually I don't think my foray into data viz came from stats or data at all
+* favourite subjects art and music not maths and computer science
+* I wanted to do something more creative, and I wanted to get better at programming. 
 
 ### Why do you think R is well suited to making high-quality data viz?
 
-### What do you recommend for someone who wants to get into making data viz in R or improve their existing data viz? 
+* reproducible
+* photoshop
+* packages that exist / community, annotations
+* automate, build style packages 
+* interface with other languages, if you do really need that excel sheet
+
+### What do you recommend for someone who wants to get into making data viz in R or improve their existing data viz?
+
+* Just start! tidytuesday
+* Look at news articles - can you remake them? how would you do it better
+* Pen and paper
+* what's the purpose - eye ctaching or accurately displaying information
 
 ## Data Viz on Mobile
 
