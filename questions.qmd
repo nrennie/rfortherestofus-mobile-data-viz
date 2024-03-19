@@ -6,8 +6,6 @@ format:
     self-contained: true
 ---
 
-## Personal Background
-
 ### How did you get into R?
 
 * I think the first time I ever used R was about 9 or 10 years in an undergraduate statistics class, and I hated it so much. I'd never done any sort of programming before and I very much felt like I was thrown into the deep end. It just didn't click at all.
@@ -28,11 +26,13 @@ format:
 * I actually I don't think my foray into data visualisation came from statistics or data at all.
 * My favourite subjects iun school were art and music. not maths and computer science. I wanted to do something more creative, and I wanted to get better at programming. And so I started working on data visualisation as a side project.
 
+
 ### Why do you think R is well suited to making high-quality data viz?
 
 * I think this is two separate questions. The first question is why would you use a programming language, like R or Python, to create data visualisation, as a design tool? Why not use tools like Photoshop or click-and-drag software? I think the obvious answer is reproducibility. When you create visualisations in R, you or anyone else can see the steps you took to build it. It also allows you to automate visualisations that you make regularly e.g. things like monthly reports.
 * Then the second question is, why choose R? I think the broad range of packages that exist, and the community that builds them, is what makes R great for data visualisation. Especially those that I've seen developed in the last couple of years. I've previously been able to get 90% of a visualisation built in R and then had to use editing software to finish off things like annotations. But with some of the newer packages, it's easier to get 100% of visualisation built with R.
 * It's also reasonably easy to build your own style package, it you want to create functions that default to using a specific set of fonts and colours. * It's also easy to interface with other languages or software e.g. if someone really does want the data or plot in an Excel sheet or PowerPoint slide you can do that for them straight from R.
+
 
 ### What do you recommend for someone who wants to get into making data viz in R or improve their existing data viz?
 
