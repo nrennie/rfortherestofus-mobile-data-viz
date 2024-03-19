@@ -11,48 +11,32 @@ format:
 ### How did you get into R?
 
 * I think the first time I ever used R was about 9 or 10 years in an undergraduate statistics class, and I hated it so much. I'd never done any sort of programming before and I very much felt like I was thrown into the deep end. It just didn't click at all.
-* The rest of my degree programme I mainly used Python
-* Masters - more R focused
-* Deutsche Bahn
+* For the rest of my undergraduate degree I mainly used Python.
+* In my Masters and PhD, I was more R focused, especially collaborating with an industrial partner who used R in production. I found it better for working with data.
 
 
 ### Give me an overview of the type of work you do. What does your use of R on a daily basis look like?
 
-* lecturer in health data science, data processing health-related data, statistical models, visualisation for papers 
+* I'm a Lecturer in health data science, I use R for data processing of health-related data, building statistical models, and visualisation for papers .
 * I also use R for developing teaching materials in combination with RMarkdown or Quarto - that might be lecture slides, lecture notes, course website, simulated data sets for workshops, developing tutorials for R. I use parameterised document a lot of the time, to create a tutorial sheet for students with questions, and then switching the parameter in the report also prints the solutions.
-* data visualisation, partly for fun, RSS Best practices for data visualisation guidance (and r package)
+* I also use R for data visualisation, partly for fun and partly for work. I co-authored the Royal Statistical Society's Best practices for data visualisation guidance, and the R package that accompanies it.
 
 
 ### You are clearly very into data viz? Where does that interest come from?
 
-* At first glance, most probably see the PhD in statistics, think oh she works with data, that must be how she got into data visualisation
-* I actually I don't think my foray into data viz came from stats or data at all
-* favourite subjects art and music not maths and computer science
-* I wanted to do something more creative, and I wanted to get better at programming. 
+* At first glance, most probably see the PhD in statistics, think oh she works with data, that must be how she got into data visualisation.
+* I actually I don't think my foray into data visualisation came from statistics or data at all.
+* My favourite subjects iun school were art and music. not maths and computer science. I wanted to do something more creative, and I wanted to get better at programming. And so I started working on data visualisation as a side project.
 
 ### Why do you think R is well suited to making high-quality data viz?
 
-* reproducible
-* photoshop
-* packages that exist / community, annotations
-* automate, build style packages 
-* interface with other languages, if you do really need that excel sheet
+* I think this is two separate questions. The first question is why would you use a programming language, like R or Python, to create data visualisation, as a design tool? Why not use tools like Photoshop or click-and-drag software? I think the obvious answer is reproducibility. When you create visualisations in R, you or anyone else can see the steps you took to build it. It also allows you to automate visualisations that you make regularly e.g. things like monthly reports.
+* Then the second question is, why choose R? I think the broad range of packages that exist, and the community that builds them, is what makes R great for data visualisation. Especially those that I've seen developed in the last couple of years. I've previously been able to get 90% of a visualisation built in R and then had to use editing software to finish off things like annotations. But with some of the newer packages, it's easier to get 100% of visualisation built with R.
+* It's also reasonably easy to build your own style package, it you want to create functions that default to using a specific set of fonts and colours. * It's also easy to interface with other languages or software e.g. if someone really does want the data or plot in an Excel sheet or PowerPoint slide you can do that for them straight from R.
 
 ### What do you recommend for someone who wants to get into making data viz in R or improve their existing data viz?
 
-* Just start! tidytuesday
-* Look at news articles - can you remake them? how would you do it better
-* Pen and paper
-* what's the purpose - eye ctaching or accurately displaying information
-
-## Data Viz on Mobile
-
-Can you give an example of a piece of data viz that you have made for large screens and how you might adapt it for mobile?
-
-You suggest there are three problems when making mobile-friendly data viz:
-
-1.	You need to set a specific size of plot
-2.	You need to save a high resolution image (that matches what you seen on screen)
-3.	You have a lot less space to work with!
-
-Talk about these problems and the solution to each.
+* Just start! I started participating in the #TidyTuesday challenge every week. It's a really nice way to see data that's new to you, see how other people visualise it, and see the code they use to create plots.
+* Look at news articles: can you remake them? how would you do visualise the same data better?
+* In terms of thinking about design, I often start with pen and paper. After that initial data exploration, I still sit down and draw out ideas rather than jumping straight into code. For me, R is the tool that builds the visualisation, but it's easy to get stuck into a design if you only use R for coming up with ideas.
+* Also think about what the purpose of creating a visualisation is: is it designed to be eye-catching, it designed to accurately display information, or is it a programming exercise for you? All of these might result in different visualisations for the same data.
